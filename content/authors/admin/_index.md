@@ -1,50 +1,50 @@
 ---
 # Display name
-title: 吳健雄
+title: Chih-lan Winnie Yang
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Chih-lan Winnie Yang
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Chih-lan Winnie
+last_name: Yang
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD candidate in Sociology
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: McGill University
+    url: 
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Marriage and Family
+  - Sex, Gender and Sexuality
+  - Social Stratification 
+  - Mixed-Methods
 
 # Education to show in About widget
 education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Sociology, Graduate Option in Women's and Gender Studies
+      institution: McGill University
+      year: 2024 (expected)
+    - course: MSc in Sociology
+      institution: University of Oxford 
+      year: 2015
+    - course: BA in Interdisciplinary Program of Humanities and Social Sciences (Major in Sociology; Minor in Gender Studies)
+      institution: Ntional Tsing Hua University, Taiwan
+      year: 2014
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
